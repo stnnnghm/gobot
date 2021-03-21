@@ -8,7 +8,7 @@
 #### ~~Initial Commit~~
 #### ~~Boilerplate~~
 #### ~~Readme Updates~~
-#### Add .gitignore for .ENV files and other boilerplate
+#### ~~Add .gitignore for .ENV files and other boilerplate~~
 #### Format GoBotGo Using mybot
 #### Configure API
 #### More to follow...
